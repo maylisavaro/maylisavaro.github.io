@@ -15,4 +15,4 @@ image:
 
 X test [Center for Applied Scientific
 Computing](http://computation.llnl.gov/casc/) at [Lawrence Livermore
-National Laboratory](http://www.llnl.gov). His
+National Laboratory](http://www.llnl.gov). 
